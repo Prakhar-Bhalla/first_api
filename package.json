@@ -1,0 +1,22 @@
+{
+  "name": "first_api",
+  "version": "1.0.0",
+  "description": "First assignment Backend",
+  "main": "firstApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakhar-Bhalla/first_api.git"
+  },
+  "author": "Prakhar Bhalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakhar-Bhalla/first_api/issues"
+  },
+  "homepage": "https://github.com/Prakhar-Bhalla/first_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
