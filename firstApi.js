@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/users", (req, res) => {
-    res.send(users);
+    res.send({users});
 });
 
 app.listen(2500, function() {
